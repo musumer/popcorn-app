@@ -240,7 +240,7 @@ App.Localization.languages = {
     "tr": {
         display: "Türkçe",
         subtitle: true,
-        encoding: ['iso-8859-9']
+        encoding: ['windows-1254', 'iso-8859-9']
     },
     "uk": {
         encoding: ['windows-1251', 'iso-8859-5']
